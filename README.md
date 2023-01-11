@@ -14,3 +14,4 @@ The project is much cooler if you take a look at the videos of the robot in acti
 
 # Object Tracking:
 
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/114262230/211842572-4a4b156d-1d57-468c-9d36-43f46be223ff.gif)
