@@ -7,3 +7,10 @@ it spools up the flywheels needed to launch the ball.
 This project was solo created over the course of one semester. Access to the robot itself was a bit limited with only two 90 minute time slots a week.
 
 The project is much cooler if you take a look at the videos of the robot in action.
+
+# Object Detection:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/114262230/211840627-062b3c6c-0e61-4965-bbd4-1b47af1f105d.gif)
+
+# Object Tracking:
+
